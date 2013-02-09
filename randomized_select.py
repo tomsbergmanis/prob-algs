@@ -1,5 +1,7 @@
-''' Randomized select takes a list of *distinct* numbers, the start index p, the end index r, and the number of elements smaller than or equal to the selected number.
-Can be used for fining median. 
+''' Randomized select takes a list of *distinct* numbers, the start
+ index p, the end index r, and the number of elements smaller than or
+ equal to the selected number.
+Can be used for fining the median of an array. 
 Expected runing time O(n). '''
 import random
 
